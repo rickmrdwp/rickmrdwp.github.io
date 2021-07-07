@@ -1,2 +1,2 @@
 # rickmrdwp.github.io
-Ejemplo De Un Sitio
+Ejemplo de autenticación con Firebase y Google.

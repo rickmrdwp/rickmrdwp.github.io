@@ -1,10 +1,10 @@
 firebase.initializeApp({
-    apiKey: "AIzaSyBKXKRaQCWdfiSCZR39wunK0QApZMhgeqE",
-    authDomain: "pauten43.firebaseapp.com",
-    projectId: "pauten43",
-    storageBucket: "pauten43.appspot.com",
-    messagingSenderId: "167024006136",
-    appId: "1:167024006136:web:2766577637b6ab37c43c0d",
-    measurementId: "G-S4KD63PHHW"
-    });
+   apiKey: "AIzaSyBJtj1ZRkKUscJJjcgHHsZBUWolBQhNtKs",
+    authDomain: "autendwp.firebaseapp.com",
+    projectId: "autendwp",
+    storageBucket: "autendwp.appspot.com",
+    messagingSenderId: "448427692326",
+    appId: "1:448427692326:web:eac0036e3bff82220f71e7",
+    measurementId: "G-67RQX3D7KH"
+});
 
